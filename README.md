@@ -47,4 +47,3 @@ This repository documents the technical SEO work I performed on [IronDillo.com](
 
 ## Live Site
 Visit [https://irondillo.com](https://irondillo.com)
-"""
