@@ -52,9 +52,3 @@ This repository documents the technical SEO work I performed on [IronDillo.com](
 ## Live Site
 Visit [https://irondillo.com](https://irondillo.com)
 """
-
-# Save the README file
-readme_path = Path("/mnt/data/IronDillo-SEO-Implementation-README.md")
-readme_path.write_text(readme_content)
-
-readme_path.as_posix()
