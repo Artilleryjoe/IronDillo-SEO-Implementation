@@ -33,7 +33,7 @@ This repository documents the technical SEO work I performed on [IronDillo.com](
 - Responsive Tailwind CSS layout
 - Verified with Google’s Mobile-Friendly Test
 
-## 📊 Tools Used
+## Tools Used
 - Google Search Console
 - Google Lighthouse / PageSpeed Insights
 - Ahrefs Free Tools
