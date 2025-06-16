@@ -8,12 +8,12 @@ readme_content = """
 
 This repository documents the technical SEO work I performed on [IronDillo.com](https://irondillo.com), a cybersecurity-focused website I built to provide plain-English security advice and updates.
 
-## 🔧 Goals
+## Goals
 - Improve search engine visibility
 - Ensure mobile performance and accessibility
 - Use technical SEO best practices to reinforce site credibility
 
-## 📈 Actions Taken
+## Actions Taken
 
 ### 1. **Metadata Optimization**
 - Implemented clear and concise `<title>` tags and meta descriptions for each blog post
@@ -44,12 +44,12 @@ This repository documents the technical SEO work I performed on [IronDillo.com](
 - Screaming Frog (trial)
 - Visual Studio Code
 
-## 🧠 Lessons Learned
+## Lessons Learned
 - Clear structure and speed = stronger engagement + better crawlability
 - Consistency in metadata matters for CTR
 - Simple schema can make content stand out in SERPs
 
-## 📎 Live Site
+## Live Site
 Visit [https://irondillo.com](https://irondillo.com)
 """
 
