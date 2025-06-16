@@ -1,9 +1,5 @@
 This repo explains the technical SEO improvements I implemented on IronDillo.com, including structured metadata, optimized site performance, and keyword-aligned blog structure.
 
-from pathlib import Path
-
-# Define content for the README.md of the SEO case study repository
-readme_content = """
 # IronDillo SEO Implementation Case Study
 
 This repository documents the technical SEO work I performed on [IronDillo.com](https://irondillo.com), a cybersecurity-focused website I built to provide plain-English security advice and updates.
