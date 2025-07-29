@@ -65,7 +65,9 @@ This repository documents the ongoing technical and regional SEO work I performe
 ## Tracking Progress
 
 All detailed logs of improvements, keyword strategies, GSC metrics, and backlink building are tracked in this repository under the following structure:
-
+```yaml
+---
+```
 01_baseline/ → Initial Codex + GSC audit
 02_keywords/ → Regional keyword lists & mapping
 03_onpage/ → Metadata, titles, descriptions
@@ -73,12 +75,7 @@ All detailed logs of improvements, keyword strategies, GSC metrics, and backlink
 05_local/ → Google Business Profile & review plan
 06_reporting/ → GSC & GA4 monthly reports
 
-```yaml
-Copy
-Edit
 
----
-```
 ## Live Site
 
 👉 Visit [IronDillo.com](https://irondillo.com) for the production site.
