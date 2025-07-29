@@ -77,7 +77,7 @@ All detailed logs of improvements, keyword strategies, GSC metrics, and backlink
 `05_local/ → Google Business Profile & review plan`
 
 `06_reporting/ → GSC & GA4 monthly reports`
-
+`assets/ → Screenshots and charts`
 
 ## Live Site
 
