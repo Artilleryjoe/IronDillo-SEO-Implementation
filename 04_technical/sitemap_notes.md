@@ -1,0 +1,1 @@
+# Sitemap submission notes
