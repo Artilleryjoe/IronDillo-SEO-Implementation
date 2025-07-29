@@ -67,10 +67,15 @@ This repository documents the ongoing technical and regional SEO work I performe
 All detailed logs of improvements, keyword strategies, GSC metrics, and backlink building are tracked in this repository under the following structure:
 
 `01_baseline/ → Initial Codex + GSC audit`
+
 `02_keywords/ → Regional keyword lists & mapping`
+
 `03_onpage/ → Metadata, titles, descriptions`
+
 `04_technical/ → Sitemap, robots.txt, schema notes`
+
 `05_local/ → Google Business Profile & review plan`
+
 `06_reporting/ → GSC & GA4 monthly reports`
 
 
