@@ -38,7 +38,7 @@ This repository documents the ongoing technical and regional SEO work I performe
 ### 5. Local SEO (New Focus)
 - Added “Veteran-Owned Cybersecurity Consulting” to Google Business Profile  
 - Service areas set to **Lindale, Tyler, and East Texas**  
-- Began collecting reviews from local business and veteran networks  
+- Began collecting reviews from local businesses and veteran networks  
 
 ---
 
