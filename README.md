@@ -81,4 +81,4 @@ All detailed logs of improvements, keyword strategies, GSC metrics, and backlink
 
 ## Live Site
 
-👉 Visit [IronDillo.com](https://irondillo.com) for the production site.
+Visit [IronDillo.com](https://irondillo.com) for the production site.
